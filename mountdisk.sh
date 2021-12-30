@@ -1,0 +1,1 @@
+sudo mount -t cifs -o user=admin //192.3.3.2/Share /mnt/nasshare
